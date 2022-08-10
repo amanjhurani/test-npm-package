@@ -1,0 +1,22 @@
+{
+  "name": "is-wds-aman",
+  "version": "1.0.0",
+  "description": "Is the string WDS",
+  "main": "test-package/package/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanjhurani/test-npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanjhurani/test-npm-package/issues"
+  },
+  "homepage": "https://github.com/amanjhurani/test-npm-package#readme"
+}
